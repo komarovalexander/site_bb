@@ -664,15 +664,7 @@ figure.effect-bubba figcaption::before {
 	transform: scale(0,1);
 }
 
-figure.effect-bubba figcaption::after {
-	border-right: 1px solid #fff;
-	border-left: 1px solid #fff;
-	-webkit-transform: scale(1,0);
-	-moz-transform: scale(1,0);
-	-o-transform: scale(1,0);
-	-ms-transform: scale(1,0);
-	transform: scale(1,0);
-}
+
 figure.effect-bubba h4 {
 	padding-top: 21%;
 	-webkit-transition: transform 0.35s;
@@ -1362,7 +1354,7 @@ i.s3{
 	.gallery-top h2 {
 		font-size: 30px;
 	}
-	.col-md-4.col1.gallery-grid {
+	.col-md-4.col1.gallery-grid, .col-md-6.col1.gallery-grid, .col-md-.col12.gallery-grid {
 		float: left;
 		width: 33%;
 	}
@@ -1906,7 +1898,7 @@ i.s3{
 	.gallery-top {
 		padding-bottom: 3em;
 	}
-	.col-md-4.col1.gallery-grid {
+	.col-md-4.col1.gallery-grid, .col-md-6.col1.gallery-grid, .col-md-12.col1.gallery-grid {
 		float: left;
 		width: 50%;
 	}
@@ -2120,7 +2112,7 @@ i.s3{
 	.gallery-top h2 {
 		font-size: 26px;
 	}
-	.col-md-4.col1.gallery-grid {
+	.col-md-4.col1.gallery-grid, .col-md-6.col1.gallery-grid, .col-md-12.col1.gallery-grid {
 		width: 100%;
 	}
 	figure.effect-bubba figcaption::before, figure.effect-bubba figcaption::after {
