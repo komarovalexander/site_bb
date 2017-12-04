@@ -514,8 +514,8 @@ a.menu__link {
 .agile-welcome {
     background: white;
 }
-.text-w3 {
-    padding: 48px;
+.text-w3 {   
+    padding: 100px 48px;
 }
 .text-w3 h4 {
     text-align: center;
