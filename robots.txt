@@ -1,3 +1,3 @@
 User-agent: *
-sitemap: http://brigada-montazhnikov.ru/sitemap.xml
-Host: brigada-montazhnikov.ru
+sitemap: http://brigada-beton.ru/sitemap.xml
+Host: brigada-beton.ru
