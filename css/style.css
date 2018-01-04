@@ -421,6 +421,8 @@ a.menu__link {
     padding: 70px 0px;
     text-align: center;
 	background: #009bbb;
+ 	z-index: 2;
+ 	position: relative;
 }
 .team h3 {
     text-transform: uppercase;
