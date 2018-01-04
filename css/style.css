@@ -728,8 +728,7 @@ figure.effect-bubba:hover p {
 
 /*-- opening--*/
 .agile-open{
-	    background: url(../images/main/25.jpg) no-repeat fixed;
-    background-position: bottom;
+	    background: url(../images/main/bg.jpg) no-repeat;
 	background-size: cover;
 	padding:180px 0 120px 0;
 }
